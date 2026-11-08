@@ -10,7 +10,13 @@
 /* Стили пиши здесь :) */
 h1{
     color: red;
+    text-align: center;
 }
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
 </style>
 <body>
     <h1>Мир пончиков</h1>
